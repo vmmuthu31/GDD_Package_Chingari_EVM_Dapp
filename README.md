@@ -7,17 +7,10 @@ Web3 social networks are built on the technology that powers Ethereum and other 
 Being built on blockchain, web3 social networks are decentralized and are thus a class of decentralized applications(dApps).
 
 # Features Provided
+
 -> We provide NFT.Storage as a form of storage. <br/>
 -> We also give users access to a blog. <br/>
 -> We also offer our consumers memberships so they may access the creators' unique stuff. <br/>
--> Account abstraction using Biconomy. <br/>
-
-# Targeting Bounties
-
--> Filecoin <br/>
--> Biconomy <br/>
--> NFTStorage <br/>
--> Chingari
 
 # Proposing Features:
 
@@ -49,16 +42,18 @@ backend: <br/>
 -> npm i -g truffle <br/>
 -> truffle compile <br/>
 -> truffle migrate <br/>
--> truffle deploy 
+-> truffle deploy
 
 # Demo Pages
 
 ![image](https://user-images.githubusercontent.com/88650559/206165691-3cd11787-a98c-40f5-ba7d-bd7395ea105b.png)
 
 # Upload a Post
+
 ![image](https://user-images.githubusercontent.com/88650559/209459594-10124fbc-e7f4-4f40-8b01-93faf90ef963.png)
 
 # Minting of the Post as NFT
+
 https://user-images.githubusercontent.com/88650559/209794739-fba58311-a1f3-424e-8ffb-0f8924a8b0e1.mp4
 
 # Media Page before Subscription(Minting of NFT):
